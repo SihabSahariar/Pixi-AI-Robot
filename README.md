@@ -24,6 +24,27 @@ python pixi_new.py.
 The robot is designed to recognize human faces and respond to voice commands. The robot's behavior is controlled by the main.py program, which runs on the Raspberry Pi.
 To interact with the robot, stand in front of it and wait for it to recognize your face. Once it recognizes you, you can give it voice commands, such as "Hello Pixi" or "What is your name?". The robot will respond to your commands in a natural way, using synthesized speech and robotic movements.
 
+### Question Instruction:
+You may ask these questions.
+1.	What is the time?
+2.	Hands Up
+3.	Hands Down
+4.	Do Something (It’ll show you a hands movement)
+5.	What’s your age?
+6.	Who made you?
+7.	What’s your name?
+8.	Who is your father?
+9.	Are you there?
+10.	Thanks a lot
+11.	How are you?
+12.	Tell me a jokes
+13.	For Face Recognition -> Recognize me (Must)
+14.	Tell me about Sheikh Hasina 
+15.	Tell me about Sheikh Mujibur Rahman
+16.	Tell me about Zunayed Ahmed Polok
+17.	Tell me about ** (Information from Wikipedia), for an example : Tell me about Bangladesh
+18.	Do you know ** (information from wikipedia)
+
 ### Preview
 ![](withme.jpg)
 ![](robot.jpg)
