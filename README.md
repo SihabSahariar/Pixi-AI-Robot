@@ -25,6 +25,7 @@ The robot is designed to recognize human faces and respond to voice commands. Th
 To interact with the robot, stand in front of it and wait for it to recognize your face. Once it recognizes you, you can give it voice commands, such as "Hello Pixi" or "What is your name?". The robot will respond to your commands in a natural way, using synthesized speech and robotic movements.
 
 ### Preview
+![](withme.jpg)
 ![](robot.jpg)
 ### Contributing
 Contributions to the project are welcome! If you would like to contribute, please follow these steps:
